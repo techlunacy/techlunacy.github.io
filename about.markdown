@@ -92,6 +92,7 @@ permalink: /about/
 - Planned and implemented multiple complex project solutions while upholding established standards, policies, and procedures
 - Directed and guided project teams
 - Managed a team of developers that built and maintained the Commission Monster System that resulted in a highly performant Affiliate marketing system with numerous successful campaigns
+
 # **EDUCATION**
 
 **Bachelor of Information Technology**
