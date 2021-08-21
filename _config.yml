@@ -21,7 +21,7 @@
 title: Graeme
 email: contact@techlunacy.com
 description: >- # this means to ignore newlines until "baseurl:"
-  This is a place holder till i come up with something interesting
+  :au: in :sg:
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://www.techlunacy.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: techlunacy

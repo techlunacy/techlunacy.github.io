@@ -5,8 +5,6 @@ permalink: /about/
 ---
 
 
-:au: in :sg: 
-
 # **Graeme Wilson**
 
 # **EXECUTIVE SUMMARY**
