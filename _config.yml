@@ -20,7 +20,8 @@
 # techlunacy.blogspot.com.au
 title: Graeme
 email: contact@techlunacy.com
-description: >- :au: in :sg:
+description: >- 
+  :au: in :sg:
   
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://www.techlunacy.com" # the base hostname & protocol for your site, e.g. http://example.com
@@ -34,7 +35,6 @@ blogspot_username:  techlunacy
 theme: minima
 plugins:
   - jekyll-feed
-
 share:
    twitter: True
 
