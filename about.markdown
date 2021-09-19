@@ -100,9 +100,8 @@ University of Ballarat, Australia
 2000 – 2002
 
 # **CERTIFICATION**
-
+| **Hashicorp Vault Associate** | 2021 |
 | **Certified Kubernetes Application Developer** | 2020 |
-| --- | --- |
 | **AWS Certified DevOps Engineer– Professional Level** | 2015 |
 | **AWS Certified SysOps Administrator – Associate Level** | 2014 |
 | **AWS Certified Solutions Architect – Associate Level** | 2014 |
