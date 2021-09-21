@@ -100,6 +100,7 @@ University of Ballarat, Australia
 2000 – 2002
 
 # **CERTIFICATION**
+
 | **Hashicorp Vault Associate** | 2021 |
 | --- | --- |
 | **Certified Kubernetes Application Developer** | 2020 |
