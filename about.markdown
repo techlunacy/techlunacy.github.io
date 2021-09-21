@@ -101,8 +101,9 @@ University of Ballarat, Australia
 
 # **CERTIFICATION**
 
-| **Hashicorp Vault Associate** | 2021 |
+|||
 | --- | --- |
+| **Hashicorp Vault Associate** | 2021 |
 | **Certified Kubernetes Application Developer** | 2020 |
 | **AWS Certified DevOps Engineer– Professional Level** | 2015 |
 | **AWS Certified SysOps Administrator – Associate Level** | 2014 |
@@ -111,8 +112,9 @@ University of Ballarat, Australia
 
 # **TECHNICAL SKILLS**
 
-| **Programming Languages** | Groovy, Python, Ruby, GoLang |
+|||
 | --- | --- |
+| **Programming Languages** | Groovy, Python, Ruby, GoLang |
 | **Testing Frameworks** | Inspec, Cucumber, jUnit, RSPEC |
 | **Build Tools** | Docker, Maven, Helm, Gradle, Packer, npm |
 | **Monitoring Tools** | CloudWatch, Prometheus, Elasticsearch, Grafana, Kibana |
